@@ -1,0 +1,35 @@
+.logo{
+    background-color: aqua;
+    color: white;
+    width: 30%;
+    border-radius: 5%;
+    border-style: solid;
+    text-align: center;
+}
+
+header{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: aqua;
+}
+
+body{
+    background-color: blue;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+
+nav{
+    width: 70%;
+    background-color:aqua;
+}
+
+li{
+    width: 30%;
+    color: white;
+    font-family: ;
+}
